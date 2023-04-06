@@ -1,6 +1,6 @@
 ### Installation:
 
-
+pip install the_one_api_sdk_swilson
 
 ### Usage:
 
@@ -24,3 +24,4 @@ to have the entire param set as the key and an empty string as the value
 
 `{'budgetInMillions>1000': ''}`
 
+Pagination is built-in. Beware of rate limiting if using small page sizes
