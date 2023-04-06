@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "the_one_api_sdk_swilson"
+name = "the_one_api_sdk_comradequestion10"
 version = "0.0.1"
 authors = [
   { name="Steven Wilson", email="wilson.stvn@gmail.com" },

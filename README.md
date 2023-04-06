@@ -1,6 +1,6 @@
 ### Installation:
 
-pip install the_one_api_sdk_swilson
+`pip install --index-url https://test.pypi.org/simple/ --no-deps the_one_api_sdk_comradequestion10`
 
 ### Usage:
 
